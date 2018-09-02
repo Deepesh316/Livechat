@@ -1,0 +1,19 @@
+{
+  "name": "livechat",
+  "version": "1.0.0",
+  "description": "A real time chat application using Node and Express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepesh316/Livechat.git"
+  },
+  "author": "Deepesh Kumar R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepesh316/Livechat/issues"
+  },
+  "homepage": "https://github.com/Deepesh316/Livechat#readme"
+}
